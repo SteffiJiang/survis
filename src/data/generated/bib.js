@@ -1,31 +1,4 @@
 ﻿const generatedBibEntries = {
-    "alslaity_machine_2024": {
-        "abstract": "Emotion detection and Sentiment analysis techniques are used to understand polarity or emotions expressed by people in many cases, especially during interactive systems use. Recognizing users\u2019 emotions is an important topic for human\u2013computer interaction. Computers that recognize emotions would provide more natural interactions. Also, emotion detection helps design human-centred systems that provide adaptable behaviour change interventions based on users\u2019 emotions. The growing capability of machine learning to analyze big data and extract emotions therein has led to a surge in research in this domain. With this increased attention, it becomes essential to investigate this research area and provide a comprehensive review of the current state. In this paper, we conduct a systematic review of 123 papers on machine learning-based emotion detection to investigate research trends along many themes, including machine learning approaches, application domain, data, evaluation, and outcome. The results demonstrate: 1) increasing interest in this domain, 2) supervised machine learning (namely, SVM and Na\u00efve Bayes) are the most popular algorithms, 3) Text datasets in the English language are the most common data source, and 4) most research use Accuracy to evaluate performance. Based on the \ufb01ndings, we suggest future directions and recommendations for developing human-centred systems.",
-        "author": "Alslaity, Alaa and Orji, Rita",
-        "doi": "10.1080/0144929X.2022.2156387",
-        "file": "Alslaity and Orji - 2024 - Machine learning techniques for emotion detection .pdf:/Users/steffijiang/Zotero/storage/7WFXE3JX/Alslaity and Orji - 2024 - Machine learning techniques for emotion detection .pdf:application/pdf",
-        "issn": "0144-929X, 1362-3001",
-        "journal": "Behaviour \\& Information Technology",
-        "language": "en",
-        "month": "jan,",
-        "number": "1",
-        "pages": "139--164",
-        "shorttitle": "Machine learning techniques for emotion detection and sentiment analysis",
-        "title": "Machine learning techniques for emotion detection and sentiment analysis: current state, challenges, and future directions",
-        "type": "article",
-        "url": "https://www.tandfonline.com/doi/full/10.1080/0144929X.2022.2156387",
-        "urldate": "2024-05-14",
-        "volume": "43",
-        "year": "2024"
-    },
-    "blei_latent_nodate": {
-        "abstract": "We describe latent Dirichlet allocation (LDA), a generative probabilistic model for collections of discrete data such as text corpora. LDA is a three-level hierarchical Bayesian model, in which each item of a collection is modeled as a \ufb01nite mixture over an underlying set of topics. Each topic is, in turn, modeled as an in\ufb01nite mixture over an underlying set of topic probabilities. In the context of text modeling, the topic probabilities provide an explicit representation of a document. We present ef\ufb01cient approximate inference techniques based on variational methods and an EM algorithm for empirical Bayes parameter estimation. We report results in document modeling, text classi\ufb01cation, and collaborative \ufb01ltering, comparing to a mixture of unigrams model and the probabilistic LSI model.",
-        "author": "Blei, David M",
-        "file": "Blei - Latent Dirichlet Allocation.pdf:/Users/steffijiang/Zotero/storage/ELYL49MY/Blei - Latent Dirichlet Allocation.pdf:application/pdf",
-        "language": "en",
-        "title": "Latent {Dirichlet} {Allocation}",
-        "type": "article"
-    },
     "chen_review_2020": {
         "abstract": "This paper focuses on the development of electric vehicle (EV) charging infrastructure in the UK, which is a vital part of the delivering ultra-low-emission vehicle (ULEV) and will transition into low emission energy systems in the near future. Following a brief introduction to global landscape of EV and its infrastructure, this paper presents the EV development in the UK. It then unveils the government policy in recent years, charging equipment protocols or standards, and existing EV charging facilities. Circuit topologies of charging infrastructure are reviewed. Next, three important factors to be considered in a typical site, i. e., design, location and cost, are discussed in detail. Furthermore, the management and operation of charging infrastructure including different types of business models are summarized. Last but not least, challenges and future trends are discussed.",
         "author": "Chen, Tianjin and Zhang, Xiao-Ping and Wang, Jianji and Li, Jianing and Wu, Cong and Hu, Mingzhu and Bian, Huiping",
@@ -44,25 +17,6 @@
         "urldate": "2024-05-14",
         "volume": "8",
         "year": "2020"
-    },
-    "das_multimodal_2023": {
-        "abstract": "Sentiment analysis has come long way since it was introduced as a natural language processing task nearly 20 years ago. Sentiment analysis aims to extract the underlying attitudes and opinions toward an entity. It has become a powerful tool used by governments, businesses, medicine, marketing, and others. The traditional sentiment analysis model focuses mainly on text content. However, technological advances have allowed people to express their opinions and feelings through audio, image and video channels. As a result, sentiment analysis is shifting from unimodality to multimodality. Multimodal sentiment analysis brings new opportunities with the rapid increase of sentiment analysis as complementary data streams enable improved and deeper sentiment detection which goes beyond text-based analysis. Audio and video channels are included in multimodal sentiment analysis in terms of broadness. People have been working on different approaches to improve sentiment analysis system performance by employing complex deep neural architectures. Recently, sentiment analysis has achieved significant success using the transformer-based model. This paper presents a comprehensive study of different sentiment analysis approaches, applications, challenges, and resources then concludes that it holds tremendous potential. The primary motivation of this survey is to highlight changing trends in the unimodality to multimodality for solving sentiment analysis tasks.",
-        "author": "Das, Ringki and Singh, Thoudam Doren",
-        "doi": "10.1145/3586075",
-        "file": "Das and Singh - 2023 - Multimodal Sentiment Analysis A Survey of Methods.pdf:/Users/steffijiang/Zotero/storage/3BTE8HIQ/Das and Singh - 2023 - Multimodal Sentiment Analysis A Survey of Methods.pdf:application/pdf",
-        "issn": "0360-0300, 1557-7341",
-        "journal": "ACM Computing Surveys",
-        "language": "en",
-        "month": "dec,",
-        "number": "13s",
-        "pages": "1--38",
-        "shorttitle": "Multimodal {Sentiment} {Analysis}",
-        "title": "Multimodal {Sentiment} {Analysis}: {A} {Survey} of {Methods}, {Trends}, and {Challenges}",
-        "type": "article",
-        "url": "https://dl.acm.org/doi/10.1145/3586075",
-        "urldate": "2024-05-14",
-        "volume": "55",
-        "year": "2023"
     },
     "gao_customer_2023": {
         "abstract": "Rapid and accurate identification of customers preferences on specification combinations is critical to the development of competitive electric vehicles. Both conscious and subconscious preferences of customers are embedded in the big sales data of electric vehicles. Based on the big sales data of electric vehicles in the Chinese market in 2021, this paper provides a novel customer preference mining approach for supporting design decision-making of electric vehicles. Specifications and sales numbers of electric vehicles are collected and analyzed for customers preferences information mining. Based on the relationship between specifications and components, mutation and reproduction probabilities of electric vehicle components are calculated for meeting customers\u2019 diversified preferences on specification combinations. Recommendations of design decision-making for enhancing product adaptability are made through components clustering based on the mutation and reproduction probabilities of electric vehicle components. Similarities and differences between the recommended design and current design of electric vehicles are investigated to illustrate the rationality of the proposed method.",
@@ -173,6 +127,24 @@
         "volume": "9",
         "year": "2021"
     },
+    "morton_spatial_2018": {
+        "abstract": "This paper reports a spatial analysis of Electric Vehicle registrations across the local authorities of the United Kingdom during the early phase of market development. Spatial autocorrelation tests are applied in order to identify any spatial organisation in registrations rates and spatial regression models are specified to consider the effect of socioeconomic, household, and transport system characteristics over registrations. Specific attention is paid to the association between Electric Vehicle registrations and the presence of charging infrastructure to consider if registrations are affected by infrastructure in the immediate and intermediate vicinity. The results of the analysis suggest Electric Vehicle demand exhibits a moderate degree of spatial clustering, which indicates the emergence of lead and laggard markets, and that the spatial variation in Electric Vehicle uptake can be partially explained through other characteristics of the local authorities. Characteristics relating to education level, employment status, income level, population density, dwelling type, household size, car availability, and the presence of Hybrid Electric Vehicles are significant factors in explaining the rate of Electric Vehicle registrations. Moreover, the level of charge point infrastructure installed within a local authority is positively associated with EV demand. From a policy perspective, the results reported in this paper indicate that local conditions are likely to be important in the rate of Electric Vehicle adoption, which may be of use when considering the development of geographically targeted interventions to accelerate Electric Vehicle demand.",
+        "author": "Morton, Craig and Anable, Jillian and Yeboah, Godwin and Cottrill, Caitlin",
+        "doi": "10.1016/j.jtrangeo.2018.08.020",
+        "file": "Full Text:/Users/steffijiang/Zotero/storage/3CYSZJUH/Morton et al. - 2018 - The spatial pattern of demand in the early market .pdf:application/pdf;ScienceDirect Snapshot:/Users/steffijiang/Zotero/storage/T6BG69AK/S096669231630309X.html:text/html",
+        "issn": "0966-6923",
+        "journal": "Journal of Transport Geography",
+        "keywords": "Electric vehicle demand, Socio-technical transitions, Spatial diffusion, Spatial regression, Spatial spillovers",
+        "month": "oct,",
+        "pages": "119--130",
+        "shorttitle": "The spatial pattern of demand in the early market for electric vehicles",
+        "title": "The spatial pattern of demand in the early market for electric vehicles: {Evidence} from the {United} {Kingdom}",
+        "type": "article",
+        "url": "https://www.sciencedirect.com/science/article/pii/S096669231630309X",
+        "urldate": "2024-05-13",
+        "volume": "72",
+        "year": "2018"
+    },
     "ruan_public_2022": {
         "abstract": "Understanding public perception of electric vehicles (EVs) is imperative for increasing EV adoption, which can significantly reduce greenhouse gas (GHG) emissions, thereby mitigating climate change and global warming. While most existing research characterizes public perception of EV in the context of surveys, questionnaires, or interviews, our study leverages Reddit online social network (OSN) data to capture EV public perception at a much larger scale. We have collected 3,437,917 Reddit posts (including 274,979 submissions and 3,162,938 comments) between January 2011 and December 2020 relevant to EVs and analyzed them along several axes to understand how EVs are perceived by the public on Reddit through the following research questions: (1) What EV-related topics have been discussed by Reddit users? Whether/how Reddit users\u2019 interest in different topics has changed during 2011\u20132020? (2) What sentiment do Reddit users hold towards EVs? Whether public sentiment on Reddit has shifted over the past 10 years? (3) Whether/how do various Reddit communities (i.e., subreddits) have different perceptions of EVs? Our analysis evinces the potential of utilizing a large-scale OSN dataset for demonstrating a much wider spectrum of topics that the public is interested in than previous studies show, reveals fringe communities including r/conspiracy have many (controversial) discussions on EVs, especially on the environmental impacts of EVs, and one political community (r/The\\_Donald) has similar patterns with fringe communities in both sentiment and topic aspects. By answering these research questions, we aim to develop a more comprehensive understanding of the public perception of EVs in the past decade.",
         "author": "Ruan, Tao and Lv, Qin",
@@ -189,17 +161,6 @@
         "urldate": "2024-04-30",
         "volume": "2",
         "year": "2022"
-    },
-    "yacoub_survey_2024": {
-        "abstract": "In recent years, more people have been using the internet and social media to express their opinions on various subjects, such as institutions, services, or specific ideas. This increase highlights the importance of developing automated tools for accurate sentiment analysis. Moreover, addressing sarcasm in text is crucial, as it can significantly impact the efficacy of sentiment analysis models. This paper aims to provide a comprehensive overview of the conducted research on sentiment analysis and sarcasm detection, focusing on the time from 2018 to 2023. It explores the challenges faced and the methods used to address them. It conducts a comparison of these methods. It also aims to identify emerging trends that will likely influence the future of sentiment analysis and sarcasm detection, ensuring their continued effectiveness. This paper enhances the existing knowledge by offering a comprehensive analysis of 40 research works, evaluating performance, addressing multilingual challenges, and highlighting future trends in sarcasm detection and sentiment analysis. It is a valuable resource for researchers and experts interested in the field, facilitating further advancements in sentiment analysis techniques and applications. It categorizes sentiment analysis methods into ML, lexical, and hybrid approaches, highlighting deep learning, especially Recurrent Neural Networks (RNNs), for effective textual classification with labeled or unlabeled data.",
-        "author": "Yacoub, Ahmed Derbala and Slim, Salwa O and Aboutabl, Amal Elsayed",
-        "file": "Yacoub et al. - 2024 - A Survey of Sentiment Analysis and Sarcasm Detecti.pdf:/Users/steffijiang/Zotero/storage/7X2N2CV6/Yacoub et al. - 2024 - A Survey of Sentiment Analysis and Sarcasm Detecti.pdf:application/pdf",
-        "language": "en",
-        "number": "1",
-        "title": "A {Survey} of {Sentiment} {Analysis} and {Sarcasm} {Detection}: {Challenges}, {Techniques}, and {Trends}",
-        "type": "article",
-        "volume": "15",
-        "year": "2024"
     },
     "zhou_machine_2019": {
         "abstract": "Creating product ecosystems has been one of the strategic ways to enhance user experience and business advantages. Among many, customer needs analysis for product ecosystems is one of the most challenging tasks in creating a successful product ecosystem from both the perspectives of marketing research and product development. In this paper, we propose a machine-learning approach to customer needs analysis for product ecosystems by examining a large amount of online user-generated product reviews within a product ecosystem. First, we filtered out uninformative reviews from the informative reviews using a fastText technique. Then, we extract a variety of topics with regard to customer needs using a topic modeling technique named latent Dirichlet allocation. In addition, we applied a rule-based sentiment analysis method to predict not only the sentiment of the reviews but also their sentiment intensity values. Finally, we categorized customer needs related to different topics extracted using an analytic Kano model based on the dissatisfaction-satisfaction pair from the sentiment analysis. A case example of the Amazon product ecosystem was used to illustrate the potential and feasibility of the proposed method.",
